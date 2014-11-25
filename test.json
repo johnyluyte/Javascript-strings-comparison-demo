@@ -1,0 +1,19 @@
+{
+  "_comment_info": "This is a test json file",
+  "myData": [
+    {
+      "myKeys": [
+        {
+          "key": "帥哥"
+        },
+        {
+          "key": "明星"
+        },
+        {
+          "key": "宅男"
+        }
+      ],
+      "myValue": "金城武"
+    }
+  ]
+}
