@@ -4,16 +4,13 @@
     {
       "myKeys": [
         {
-          "key": "帥哥"
+          "key": "Dog"
         },
         {
-          "key": "明星"
-        },
-        {
-          "key": "宅男"
+          "key": "Cat"
         }
       ],
-      "myValue": "金城武"
+      "myValue": "Animals"
     }
   ]
 }
