@@ -53,9 +53,10 @@ Currently, you can do this with Firefox. But have to do a little configuratoin i
 
 
 # Reference
-[ASCII Codes Table](http://ascii.cl/)
-[StackOverflow: Javascript String Compare == sometimes fails](https://stackoverflow.com/questions/863524/javascript-string-compare-sometimes-fails)
-[How to convert text to binary code in JavaScript?](https://stackoverflow.com/questions/14430633/how-to-convert-text-to-binary-code-in-javascript)
+
+- [ASCII Codes Table](http://ascii.cl/)
+- [StackOverflow: Javascript String Compare == sometimes fails](https://stackoverflow.com/questions/863524/javascript-string-compare-sometimes-fails)
+- [How to convert text to binary code in JavaScript?](https://stackoverflow.com/questions/14430633/how-to-convert-text-to-binary-code-in-javascript)
 
 
 ## License
