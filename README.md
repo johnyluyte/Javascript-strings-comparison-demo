@@ -19,11 +19,11 @@ On the other hand, this may be caused by *whitespaces*, *newline*, or *various s
 
 Demo page:
 
-- [http://chunnorris.net/demo/javascript-strings-comparison-demo/](http://chunnorris.net/demo/javascript-strings-comparison-demo/)
+- [http://chunnorris.cc/demo/javascript-strings-comparison-demo/](http://chunnorris.cc/demo/javascript-strings-comparison-demo/)
 
 Sample files:
 
-- [sampleCSV.csv](http://chunnorris.net/demo/javascript-strings-comparison-demo/sampleCSV.csv)
+- [sampleCSV.csv](http://chunnorris.cc/demo/javascript-strings-comparison-demo/sampleCSV.csv)
 
 
 In this example,
